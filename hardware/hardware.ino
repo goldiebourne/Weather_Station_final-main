@@ -91,6 +91,9 @@ const char* password   = "";                // Add your Wi-Fi password
 // const char* ssid       = "Digicel_WiFi_kYF6";                       // Add your Wi-Fi ssid
 // const char* password   = "XkqUU6Hq";                // Add your Wi-Fi password 
 
+// const char* ssid       = "Wendy Phone";                       // Add your Wi-Fi ssid
+// const char* password   = "wendybrown";                // Add your Wi-Fi password 
+
 // TASK HANDLES 
 TaskHandle_t xMQTT_Connect          = NULL; 
 TaskHandle_t xNTPHandle             = NULL;  

@@ -195,6 +195,7 @@ void initialize(void){
    
   initMQTT();          // INIT MQTT  
   vUpdateFunction();
+  vNTPFunction();
    
 }
 
